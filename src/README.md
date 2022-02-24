@@ -9,7 +9,7 @@ due dates for assignments.  -->
 
 ## Notes 
 
-The [notes tab](intro.md) is where you can find the course notes. 
+Course notes can be found in the tab to the left. 
 
 <!-- ## Homework
 
